@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190212454438",
+    "project_id": "finalprojectppb1",
+    "storage_bucket": "finalprojectppb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190212454438:android:5a2d03f459e118ada88ee7",
+        "android_client_info": {
+          "package_name": "com.example.anggarisky.doesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190212454438-diu3mvc9q0t647hl73dmq6o9ihsdn3jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-NuoTX49Qnu16ex5OMCwjK__i55Cm3Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190212454438-diu3mvc9q0t647hl73dmq6o9ihsdn3jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
